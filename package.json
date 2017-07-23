@@ -13,5 +13,14 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelindaHasselbring/friendFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MelindaHasselbring/friendFinder/issues"
+  },
+  "homepage": "https://github.com/MelindaHasselbring/friendFinder#readme"
 }
